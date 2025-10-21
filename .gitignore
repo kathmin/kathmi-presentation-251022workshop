@@ -205,3 +205,17 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# ComfyUI関連（出力画像・設定キャッシュなど）
+output/
+comfyui_temp/
+*.safetensors
+*.ckpt
+*.pt
+*.pth
+*.onnx
+*.png
+*.jpg
+*.webp
+*.json
+*.yaml
