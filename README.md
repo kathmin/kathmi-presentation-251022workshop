@@ -1,8 +1,7 @@
 # kathmi-presentation-251022workshop
 Stable Diffusion ComfyUIと自作LoRAを触ってみよう！
 
-
-このリポジトリは、2025年10月22日に開催されたワークショップ「Stable Diffusion ComfyUIと自作LoRAを触ってみよう！」の教材です。  
+### このリポジトリは、2025年10月22日に開催されたワークショップ「Stable Diffusion ComfyUIと自作LoRAを触ってみよう！」の教材です。  
 生成AIの仕組みを理解しながら、実際に画像生成を体験することを目的としています。
 ローカル環境とGoogle Colabの両方に対応しています。
 ---
